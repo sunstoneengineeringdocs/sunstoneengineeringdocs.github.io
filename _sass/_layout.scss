@@ -3,7 +3,13 @@
  */
  //~~~~~~~Variables~~~~~~~~~~
 
-
+body a{  
+    color:$brand-accent-color-secondary;
+    &:hover{
+    text-decoration: none;
+    color:$brand-accent-color-secondary;
+    }
+}
 
 li>ol{
     list-style-type: lower-alpha;
@@ -457,6 +463,7 @@ html, body {
             padding-top: 10px;
             border-radius: 5px;
             padding-bottom: 10px;
+            text-align: center;
     }
 }
 
