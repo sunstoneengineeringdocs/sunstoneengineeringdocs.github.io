@@ -5,7 +5,7 @@
 
 body a{  
     color:$brand-accent-color-secondary;
-    &:hover{
+    &:hover, &:visited{
     text-decoration: none;
     color:$brand-accent-color-secondary;
     }
