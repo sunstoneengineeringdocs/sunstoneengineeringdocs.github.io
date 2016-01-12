@@ -9,7 +9,7 @@
 title: Sunstone Documentation
 email: your-email@domain.com
 description: > # Sunstone Documentation Home
-baseurl:  # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://docs.sunstoneengineering.com" # the base hostname & protocol for your site
 
 # Build settings
