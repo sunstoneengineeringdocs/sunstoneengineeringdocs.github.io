@@ -375,6 +375,13 @@ table{
     padding: $spacing-unit 0;
     background: $header-color url(http://www.orionwelders.com/wordpress/wp-content/themes/sunstone/assets/img/footer.png);
     color: white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+html, body {
+    height: 100%;
 }
 
 .footer-heading {
@@ -444,16 +451,12 @@ table{
  */
 .page-content {
     //padding: $spacing-unit 0;
-    
 
     >.wrapper{
-
-        .content{
             background-color: white;
             padding-top: 10px;
             border-radius: 5px;
             padding-bottom: 10px;
-        }
     }
 }
 

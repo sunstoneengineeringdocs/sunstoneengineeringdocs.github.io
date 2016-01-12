@@ -5,4 +5,6 @@ layout: default
 
 ## User Manuals
 
-#####[DCD User Manual](http://docs.sunstoneengineering.com/dcd)
+---
+
+####[DCD User Manual](http://docs.sunstoneengineering.com/dcd)
